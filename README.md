@@ -7,3 +7,8 @@ Agar tugas submission dapat diperiksa dan diterima dengan baik, sebaiknya hindar
 - Mengubah (kecuali untuk mengerjakan TODO) atau menghapus kode yang sudah ada
 - Membuat fungsi baru yang bukan merupakan tugas latihan
 - Mengubah struktur project (menghapus, mengubah, atau memindahkan package)
+
+**Test Report**<br>
+
+- Test report yang dihasilkan oleh autograder dapat diakses melalui link berikut: [Test Report](./result.png)
+<img src="result.png" />
